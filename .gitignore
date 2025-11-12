@@ -1,0 +1,13 @@
+﻿.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+*.cache
+Build/
+Debug/
+Release/
+packages/
+*.csproj.user
+*.vbproj.user
